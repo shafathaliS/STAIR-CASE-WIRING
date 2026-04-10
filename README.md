@@ -34,14 +34,15 @@ Direct Connection:
 <img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
 Tabulation:
-<img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
+<img width="587" height="259" alt="image" src="https://github.com/user-attachments/assets/bd0b5364-01a9-410f-8122-89d2cf1bc724" />
 
 Circuit Diagram:
 Cross Connection:
 <img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
 
 Tabulation 2
-<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
+<img width="547" height="221" alt="image" src="https://github.com/user-attachments/assets/7835837a-2e4d-45f5-87e1-1777eb0b2ce1" />
+
 
 Result: 
 thus the experiment is executed successfully
